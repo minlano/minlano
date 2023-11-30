@@ -1,4 +1,16 @@
 ### Hi there 👋
+![Static Badge](https://img.shields.io/badge/:민재-blue)
+![Static Badge](https://img.shields.io/badge/:안녕하세요-pupple)
+![Static Badge](https://img.shields.io/badge/:반갑습니다-violet)
+![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flag-square&logo=Spring&logoColor=white)
+
+<!-- ![Static Badge](https://img.shields.io/badge/:내용-색) 
+https://github.com/badges/shields
+https://img.shields.io/badges/static-badge
+https://simpleicons.org/
+보유기술란을 뱃지를 이용해서 하면 좋다
+-->
+
 
 <!--
 **minlano/minlano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
