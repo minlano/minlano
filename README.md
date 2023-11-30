@@ -4,6 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/:반갑습니다-violet)
 [![Static Badge](https://img.shields.io/badge/메일주소-6DB33F?style=flag-square&logo=Google&logoColor=white)](mailto:rudwnd88@google.com)
 ![views](https://github.com/jonghechoi/dicom-bridge)
+![Static Badge](https://img.shields.io/badge/github-6DB33F?style=flag-square&logo=github&logoColor=black)
 
 <!-- ![Static Badge](https://img.shields.io/badge/:내용-색) 
 https://github.com/badges/shields
