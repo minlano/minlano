@@ -3,7 +3,6 @@
 ![Static Badge](https://img.shields.io/badge/:안녕하세요-pupple)
 ![Static Badge](https://img.shields.io/badge/:반갑습니다-violet)
 [![Static Badge](https://img.shields.io/badge/메일주소-6DB33F?style=flag-square&logo=Google&logoColor=white)](mailto:rudwnd88@google.com)
-![views](https://github.com/jonghechoi/dicom-bridge)
 ![Static Badge](https://img.shields.io/badge/github-6DB33F?style=flag-square&logo=github&logoColor=black)
 
 <!-- ![Static Badge](https://img.shields.io/badge/:내용-색) 
@@ -43,17 +42,13 @@ Here are some ideas to get you started:
 
 ### 교육과정 수료
 * 의료용 디지털 영상 표준(DICOM)활용 의료A.I 연동 개발 실무 프로젝트 수료(2023.09.25.~2023.11.30.)
-* 이전에 수료했던 과정 풀네임 (기간)
-* 이전에 수료했던 과정 풀네임 (기간)
+* 자바 웹개발&앱개발자(시큐어코딩,Docker)양성과정 (2022.05~2022.12)
 
 ---
 
 ### 참여 프로젝트🐈‍⬛
-1. [의료용 디지털 영상 DICOM 활용 웹 뷰어 프로젝트](about:blank)
-2. 전 과정에서 했던 2~3개의 프로젝트 [프로젝트명2](태스크툴주소)
-3. 전 과정에서 했던 2~3개의 프로젝트 [프로젝트명3](깃헙리포지토리주소)
-4. 전 과정에서 했던 2~3개의 프로젝트 [프로젝트명4](배포링크)
-
+1. [의료용 디지털 영상 DICOM 활용 웹 뷰어 프로젝트](https://github.com/jonghechoi?tab=projects)
+2. Spring 프레임워크 기반 웹 프로젝트 : 신라 호텔]
 ---
 
 ### 보유 기술 (카테고리 나눠서 하는것이 좋아 보임)
