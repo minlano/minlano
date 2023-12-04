@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 
 ---
 
-### 나를 소개하는 한 문장 ex) 저는 무슨무슨 개발자 입니다.
-나를 소개하는 3-5 문장. <br>
-나를 소개하는 3-5 문장. <br>
-나를 소개하는 3-5 문장. <br>
-나를 소개하는 3-5 문장. <br>
-나를 소개하는 3-5 문장. <br>
+### :sunny: 저를 소개합니다!
+:smile:배움으로서 더욱 성장하는 개발자. <br>
+:open_hands:사람들이 필요로 하는 것이 무엇인지 고민하는 개발자.  <br>
+ :rose:고민에서 즐거움을 찾는, 일이 즐거울 개발자. <br>
+:heartpulse:사람이 좋은 개발자. <br>
 
 ---
 
@@ -51,20 +50,20 @@ Here are some ideas to get you started:
 ---
 
 ### 보유 기술 (카테고리 나눠서 하는것이 좋아 보임)
-* Front_End
+* Front_End<br/>
 ![Static Badge](https://img.shields.io/badge/HTML5-red?style=flag-square&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=flag-square&logo=CSS3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/json-6DB33F?style=flag-square&logo=JSON&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JQUERY-black?style=flag-square&logo=JQUERY&logoColor=white)
-AJAX, 
-JSP, 
-JSTL
+![Static Badge](https://img.shields.io/badge/AJAX-blue?style=flag-square&logo=ajv&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JSP-red?style=flag-square&logo=coffeescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JSTL-blue?style=flag-square&logo=stitcher&logoColor=white)
 
-* Back-End
+* Back-End<br/>
 ![Static Badge](https://img.shields.io/badge/Java-red?style=flag-square&logo=coffeescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=flag-square&logo=Javascript&logoColor=white)
 
-* DevOps
+* DevOps<br/>
 ![Static Badge](https://img.shields.io/badge/github-6DB33F?style=flag-square&logo=github&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MYSQL-blue?style=flag-square&logo=MYSQL&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Oracle-red?style=flag-square&logo=Oracle&logoColor=white)
@@ -73,7 +72,7 @@ JSTL
 ![Static Badge](https://img.shields.io/badge/Redis-red?style=flag-square&logo=Redis&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-blue?style=flag-square&logo=Docker&logoColor=white)
 
-* Collaboration & Tools
+* Collaboration & Tools<br/>
 ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flag-square&logo=Spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flag-square&logo=SpringBoot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/androidstudio-6DB33F?style=flag-square&logo=androidstudio&logoColor=white)
@@ -81,5 +80,3 @@ JSTL
 ![Static Badge](https://img.shields.io/badge/visualstudiocode-blue?style=flag-square&logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/intellijidea-black?style=flag-square&logo=intellijidea&logoColor=white)
 
-* Spring Data JPA
-* etc............
