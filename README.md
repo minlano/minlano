@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 2. Spring 프레임워크 기반 웹 프로젝트 : 신라 호텔]
 ---
 
-### 보유 기술 (카테고리 나눠서 하는것이 좋아 보임)
+### 보유 기술
 * Front_End<br/>
 ![Static Badge](https://img.shields.io/badge/HTML5-red?style=flag-square&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=flag-square&logo=CSS3&logoColor=white)
